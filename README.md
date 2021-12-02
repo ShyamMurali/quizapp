@@ -1,4 +1,4 @@
-# quizapp - Fluller & Firebase
+# quizapp - Flutter & Firebase
 Simple Flutter app to conduct quizes with friends and family <br>
 Screenshots:<br>
 <img src="screenshots/loadingpage.jpg" align="center" height="400" width="200">
